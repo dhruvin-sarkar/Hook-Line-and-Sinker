@@ -1,0 +1,30 @@
+# Unity temporary and generated files
+Library/
+Temp/
+Logs/
+Obj/
+
+# Visual Studio / VS Code
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS generated files
+Thumbs.db
+Thumbs.db
+*.tmp
+*.temp
+
+# Unity specific
+*.cs.meta
+*.asset.meta
+*.csproj
+*.sln
+*.unityproj
+
+# But keep our important meta files
+!Assets/*.meta
+!Packages/*.meta
+!ProjectSettings/*.meta
