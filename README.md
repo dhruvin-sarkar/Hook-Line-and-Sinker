@@ -1,14 +1,21 @@
+<div align="center">
+
 # Hook, Line and Sinker
+
 ![Hook Line and Sinker Banner](Readme%20assets/Screenshot%202026-03-16%20021241.png)
+
 [![Play on itch.io](https://img.shields.io/badge/Play-itch.io-red?style=for-the-badge&logo=itchdotio)](https://lifelessloser.itch.io/hook-line-and-sinker)
 
 [![Watch the demo](https://img.youtube.com/vi/uJkbWIvUGkQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=uJkbWIvUGkQ)
+
+</div>
 
 ---
 Well the story behind the creation of this game is pretty dumb 
 originally I had 2 other games in mind for https://itch.io/jam/ember Loan Shark and Substrata both of which on github btw but those games were wayy to big I couldnt possibly get a polished shipped product by the end of the jam 
 so I decided to start a new one 2 days before the submissions ended and this is the result of those 2 days of work
 PS: I actually gave up on the last day it was 4AM the submissions were supposed to end at 8AM I was stuck on this stupid issue where I couldnt install the WebGL modules required to export the game to HTML5 but Ember actually got extended and that saved me W Hackclub <3
+
 ---
 ## 🎬 See It In Action
 ### Fishing from the Dock
