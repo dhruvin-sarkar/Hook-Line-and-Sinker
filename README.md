@@ -1,5 +1,5 @@
 # Hook, Line and Sinker
-![Hook Line and Sinker Banner](ReadmeAssets/Screenshot%202026-03-16%20021241.png)
+![Hook Line and Sinker Banner](Readme%20assets/Screenshot%202026-03-16%20021241.png)
 [![Play on itch.io](https://img.shields.io/badge/Play-itch.io-red?style=for-the-badge&logo=itchdotio)](https://lifelessloser.itch.io/hook-line-and-sinker)
 
 [![Watch the demo](https://img.youtube.com/vi/uJkbWIvUGkQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=uJkbWIvUGkQ)
@@ -12,13 +12,13 @@ PS: I actually gave up on the last day it was 4AM the submissions were supposed 
 ---
 ## 🎬 See It In Action
 ### Fishing from the Dock
-![Fishing Demo](ReadmeAssets/Screen%20Recording%202026-03-16%20021613.gif)
-### The Underwater Gauntlet
-![Underwater Demo](ReadmeAssets/Screen%20Recording%202026-03-16%20021646.gif)
+![Fishing Demo](Readme%20assets/Screen%20Recording%202026-03-16%20021613.gif)
+### The Underwater Demo
+![Underwater Demo](Readme%20assets/Screen%20Recording%202026-03-16%20021646.gif)
 ---
 ## Screenshots
-![Goblin on the Dock](ReadmeAssets/Screenshot%202026-03-16%20021323.png)
-![Fishing Minigame](ReadmeAssets/Screenshot%202026-03-16%20021417.png)
+![Goblin on the Dock](Readme%20assets/Screenshot%202026-03-16%20021323.png)
+![Fishing Minigame](Readme%20assets/Screenshot%202026-03-16%20021417.png)
 ---
 | Key | Action |
 |-----|--------|
